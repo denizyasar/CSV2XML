@@ -42,4 +42,4 @@ For P1 may be 1=comma, 2=tab or 3=semicolon, and P2 may be 1=windows,
 
 The sample command line usage converting from CSV to XML as follows:
 ```bash
-CVS2XML Contacts.csv Contacts.xml -separator 1 -opsys 1
+CSV2XML Contacts.csv Contacts.xml -separator 1 -opsys 1
