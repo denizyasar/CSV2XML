@@ -29,7 +29,7 @@ defines the end of line character format (1=windows, 2=linux, 3=macos)
 - -h
 print information to screen about how other arguments can be used.
 
-```bash
+```cmd
 CSV2XML <inputfile> <outputfile> [-separator <P1>][-opsys <P2>][-h]
 ```
 
